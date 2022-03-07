@@ -20,7 +20,7 @@ class PantallaDos : AppCompatActivity() {
         var actionBar = supportActionBar
         actionBar?.setDisplayHomeAsUpEnabled(true)
 
-
+//prueba
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
